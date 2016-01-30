@@ -1,2 +1,2 @@
 # xmlstarlet
-dist-like repository xmlstarlet
+dist-git-like repository for xmlstarlet
